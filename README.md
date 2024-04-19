@@ -1,5 +1,5 @@
 # Multiplay_Beta ( 1. 깃 허브 업로드, 2. 프로젝트 환경 설정 )
-## 깃허브 업로드
+## 1. 깃허브 업로드
 
 
 ### Git 기본 세팅
@@ -52,12 +52,12 @@
 ---
 <br/>
 
-## 프로젝트 
+## 2. 프로젝트 환경설정 및 안내
 
 - 현재 폴더 잡다하게 많아서 작업하면 되는 Scene
   - Assets/Scene 에 있는 SignIn 혹은 Lobby Scene
 - 프로젝트 용량 감소
-- 안드로이드 빌드 플랫폼으로 돼 있음 ( PC 개발 환경 플랫폼으로 전환 가능 File > Build Settings > Window,Mac,Linux )
+- 안드로이드 빌드 플랫폼으로 돼 있음 ( 테스트를 위해 PC 개발 환경 플랫폼으로 전환 가능 File > Build Settings > Window,Mac,Linux )
 - 해당 유니티 버전으로 안드로이드로 빌드 할 시 OpenJDK 1.8.0_152 버전 설치 필요
 - Android API 30~33 ( https://note0913.tistory.com/328 )
 - JAVA HOME 경로 설정 수정 필수 ( https://note0913.tistory.com/328 )
