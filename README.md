@@ -62,3 +62,10 @@
 - Android API 30~33 ( https://note0913.tistory.com/328 )
 - JAVA HOME 경로 설정 수정 필수 ( https://note0913.tistory.com/328 )
 - Firebase 연동 Key 입력 필요
+  - Edit > Project Settings > Player > Publish Settings ( Android 로고 눌러야 Publish Settings 존재 )
+  - Custom Keystore 밑 Select 누르고 Assets 폴더 들어가서 user.keystore 선택
+  - Alias : capstone7
+  - password : ft6cy4zd@ ( 위 아래 둘다 )
+- Photon 연결
+  - 상단에 Tools 탭 > Fusion > Fusion hub > Welcome에 App ID
+  - 779fc2a2-64ed-48b1-b61c-5aab4b2fff77 를 입력
