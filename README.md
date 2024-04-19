@@ -1,4 +1,4 @@
-# Multiplay_Beta
+# Multiplay_Beta ( 1. 깃 허브 업로드, 2. 프로젝트 환경 설정 )
 ## 깃허브 업로드
 
 
