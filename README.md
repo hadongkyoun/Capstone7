@@ -56,7 +56,7 @@
 
 - 현재 폴더 잡다하게 많아서 작업하면 되는 Scene
   - Assets/Scene 에 있는 SignIn 혹은 Lobby Scene
-- **Oculus Integration**  + XR Interactoolkit + XR Simulator 깔려 있음
+- 프로젝트 용량 최적화
 - 안드로이드 빌드 플랫폼으로 돼 있음 ( PC 개발 환경 플랫폼으로 전환 가능 )
 - 해당 유니티 버전으로 안드로이드로 빌드 할 시 OpenJDK 1.8.0_152 버전 설치 필요
 - Firebase 연동 Key 입력 필요
