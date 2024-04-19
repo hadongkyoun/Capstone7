@@ -68,7 +68,7 @@
   - password : ft6cy4zd@ ( 위 아래 둘다 )
   - 밑에 스크린샷은 Edit > Project Settings > Player > Other Settings 에서 해줘야 되는 것들 저기 Package Name은 중요! ( 파이어베이스 연동 )
   - ![스크린샷 2024-04-19 162727](https://github.com/hadongkyoun/Capstone7/assets/72578757/c5403489-5542-4a0a-9ccc-455f6d379b33)
-
+- XR Interaction Toolkit 깔려있음
 - Photon 연결
   - 상단에 Tools 탭 > Fusion > Fusion hub > Welcome에 App ID
   - 779fc2a2-64ed-48b1-b61c-5aab4b2fff77 를 입력
