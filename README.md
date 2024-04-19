@@ -63,7 +63,7 @@
 - JAVA HOME 경로 설정 수정 필수 ( https://note0913.tistory.com/328 )
 - Firebase 연동 Key 입력 필요
   - Edit > Project Settings > Player > Publish Settings ( Android 로고 눌러야 Publish Settings 존재 )
-  - Custom Keystore 밑 Select 누르고 Assets 폴더 들어가서 user.keystore 선택
+  - Custom Keystore 밑 Select 누르고 Assets 폴더 들어가서 user.keystore 선택 ( 파이어베이스에 등록한 user.keystore임 )
   - Alias : capstone7
   - password : ft6cy4zd@ ( 위 아래 둘다 )
   - 밑에 스크린샷은 Edit > Project Settings > Player > Other Settings 에서 해줘야 되는 것들 저기 Package Name은 중요! ( 파이어베이스 연동 )
